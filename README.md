@@ -23,4 +23,19 @@
 
 ### Resultados:
 
+![Resultado](https://github.com/malfoymk/Desafio-Phishing/blob/main/image.png?raw=true)
 
+
+
+# Algumas questões que enfrentei com o percurso!
+
+
+## Apache
+
+Tive um leve problema com o Apache encontrando erros na Porta, aqui vai como resolvi:
+
+
+* Acesso: ```cd /etc/setoolkit```
+* Localizar arquivos: ```ls```
+* Acesso ao documento: ```gedit set.config```
+* Localizar ```APACHE_SERVER=```
